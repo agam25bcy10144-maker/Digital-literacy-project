@@ -63,24 +63,24 @@ Zoom, Microsoft Teams<br>
 
 
 
-💡 Key Learnings</b>
+💡 Key Learnings</b><br>
 Digital literacy is a must-have life skill<br>
 Cybersecurity threats are common but preventable.
 Small precautions can avoid major risks
 A strong online presence boosts career opportunities
 
 
-📝 Personal Reflection</b>
+📝 Personal Reflection</b><br>
 
 While working on this project, I was surprised to learn how easily people fall for phishing and UPI scams. It made me realize the importance of being cautious online. Going forward, I will ensure better password practices and verify every digital transaction carefully.<br>
 
-📊 Conclusion</b>
+📊 Conclusion</b><br>
 
 Digital literacy is not just about using technology—it’s about using it wisely, safely, and responsibly. This project helped me understand how to guide others and contribute to a safer digital community.<br>
 
-🚀 Future Scope</b>
+🚀 Future Scope</b><br>
 
-📢 Conduct awareness workshops<br>
+📢 Conduct awareness workshops<br></b>
 📱 Share digital safety tips on social media<br>
 🤝 Help students build professional profiles<br>
 
@@ -89,5 +89,5 @@ This project focuses on developing a Digital Literacy Portfolio to guide student
 The portfolio includes topics like creating profiles on platforms such as **LinkedIn**, understanding safe internet practices, identifying fake information, and using digital tools for academic growth. It is designed using **Canva** to make the content visually engaging and easy to understand.<br>
 
 The main objective of this project is to help students become confident and responsible digital users. It also highlights the importance of privacy, cybersecurity, and effective online communication in today’s digital world. This portfolio will be presented to faculty and shared with peers to promote digital awareness.<br>
-https://docs.google.com/forms/d/e/1FAIpQLSfU0Jgj-VdPL0OnJ_FjjJXriFpGRdOQ4tLmw4o6e5pm2Ue71A/viewform?usp=dialog google form link for Digital Litreracy quiz<br>
+https://docs.google.com/forms/d/e/1FAIpQLSfU0Jgj-VdPL0OnJ_FjjJXriFpGRdOQ4tLmw4o6e5pm2Ue71A/viewform?usp=dialog google form link for Digital Litreracy quiz<br></b>
 
