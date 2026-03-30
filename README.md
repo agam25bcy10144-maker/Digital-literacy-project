@@ -89,5 +89,59 @@ This project focuses on developing a Digital Literacy Portfolio to guide student
 The portfolio includes topics like creating profiles on platforms such as **LinkedIn**, understanding safe internet practices, identifying fake information, and using digital tools for academic growth. It is designed using **Canva** to make the content visually engaging and easy to understand.<br>
 
 The main objective of this project is to help students become confident and responsible digital users. It also highlights the importance of privacy, cybersecurity, and effective online communication in today’s digital world. This portfolio will be presented to faculty and shared with peers to promote digital awareness.<br>
+
+NAME -AGAM JAIM</b><br>
+REG NO- 25BCY10144<br>
+
+
+MODULE SUMMARY</b><br>
+MODULE 1:<b> <br>
+Objective: Define "Digital Literacy" beyond basic computer skills.<br>
+
+Key Topics: Critical Thinking, Safe Habits, and Online Presence.<br>
+
+Artifact: View Infographic<br>
+
+Annotation: Created using Canva with a focus on visual hierarchy and scannable content.<br>
+
+MODULE 2:</b><br>
+Objective: Establish a professional "Digital Headquarters."<br>
+
+Platforms: GitHub, LinkedIn, and Kaggle<br>
+
+Artifacts: Profile Screenshots<br>
+
+Annotation: Includes a customized GitHub Profile README to act as a dynamic resume.<br>
+
+MODULE 3:<br></b>
+
+ Objective: Demonstrate individual technical skill and group data management.<br>
+
+ Practice: HackerRank (Problem Solving).<br>
+
+ Collaboration: Google Forms & Sheets Integration.<br>
+
+ Artifacts: Quiz & Code Results<br>
+
+MODULE 4:</b><br>
+
+ Objective: Master "Soft Skills" in a digital-first world.<br>
+
+ Content: Internship inquiry emails and Social Media "Do's & Don'ts."<br>
+
+ Artifacts: Email Drafts & Checklist<br>
+
+MODULE 5:</b><br>
+
+ Objective: Researching and preventing UPI/Online Payment fraud.<br>
+
+ Highlight: 8-step safety checklist and official reporting channels.<br>
+
+ Artifacts: Case Study & Checklist<br>
+
+ Annotation: Features the National Cyber Crime Helpline: 1930.<br>
+
+
+
 https://docs.google.com/forms/d/e/1FAIpQLSfU0Jgj-VdPL0OnJ_FjjJXriFpGRdOQ4tLmw4o6e5pm2Ue71A/viewform?usp=dialog google form link for Digital Litreracy quiz<br></b>
 
