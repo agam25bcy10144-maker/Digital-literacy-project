@@ -80,7 +80,7 @@ Digital literacy is not just about using technology—it’s about using it wise
 
 🚀 Future Scope</b><br>
 
-📢 Conduct awareness workshops<br></b>
+📢 Conduct awareness workshops</b><br>
 📱 Share digital safety tips on social media<br>
 🤝 Help students build professional profiles<br>
 
@@ -95,7 +95,7 @@ REG NO- 25BCY10144<br>
 
 
 MODULE SUMMARY</b><br>
-MODULE 1:<b> <br>
+MODULE 1:</b> <br>
 Objective: Define "Digital Literacy" beyond basic computer skills.<br>
 
 Key Topics: Critical Thinking, Safe Habits, and Online Presence.<br>
@@ -103,6 +103,7 @@ Key Topics: Critical Thinking, Safe Habits, and Online Presence.<br>
 Artifact: View Infographic<br>
 
 Annotation: Created using Canva with a focus on visual hierarchy and scannable content.<br>
+
 
 MODULE 2:</b><br>
 Objective: Establish a professional "Digital Headquarters."<br>
@@ -113,7 +114,8 @@ Artifacts: Profile Screenshots<br>
 
 Annotation: Includes a customized GitHub Profile README to act as a dynamic resume.<br>
 
-MODULE 3:<br></b>
+
+MODULE 3:</b><br>
 
  Objective: Demonstrate individual technical skill and group data management.<br>
 
@@ -123,6 +125,8 @@ MODULE 3:<br></b>
 
  Artifacts: Quiz & Code Results<br>
 
+
+
 MODULE 4:</b><br>
 
  Objective: Master "Soft Skills" in a digital-first world.<br>
@@ -130,6 +134,8 @@ MODULE 4:</b><br>
  Content: Internship inquiry emails and Social Media "Do's & Don'ts."<br>
 
  Artifacts: Email Drafts & Checklist<br>
+
+
 
 MODULE 5:</b><br>
 
