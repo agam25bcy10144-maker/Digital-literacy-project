@@ -1,5 +1,5 @@
 # Digital-literacy-project<b/>
-**Project Overview: Digital Literacy Portfolio**</b>
+**Project Overview: Digital Literacy Portfolio**</b><br>
 📘 Digital Literacy Portfolio</b><br>
 🎓 Student Digital Ambassador Project<br>
 
@@ -10,7 +10,7 @@
 
 
 
-📌 About the Project<br>
+📌 About the Project<br></b>
 
 This repository contains my Digital Literacy Portfolio, developed as part of my role as a Student Digital Ambassador.<br>
 
@@ -20,14 +20,14 @@ Build a professional online identity<br>
 Communicate responsibly<br>
 Stay safe in the digital environment<br>
 
-🎯 Objectives</b>
+🎯 Objectives</b><br>
 
 ✔ Promote digital awareness among students<br>
 ✔ Encourage safe and responsible online behavior<br>
 ✔ Help peers create professional online profiles<br>
 ✔ Spread knowledge about cybersecurity threats<br>
 
-📚 Topics Covered</b>
+📚 Topics Covered</b><br>
 
 🌐 1. Professional Online Presence<br>
 LinkedIn profile creation<br>
